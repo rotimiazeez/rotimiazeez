@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 👀 &nbsp; Looking for FullStack, FrontEnd or BackEnd Developer opportunity
+- 🤔 &nbsp; Exploring new technologies and Improving my Computer Networking Skills.
+- 👀 &nbsp; Looking for Customer, Technical, and IT Support Specialist opportunity
 - 🎓 &nbsp; Studied Mechanical Engineering at Yaba College of Technology.
-- 💼 &nbsp; Working as a Technical Support Engineer/Code Reviewer @Microverse.
-- 🌱 &nbsp; Learning more about Hotwire and GraphQL.
-- ✍️ &nbsp; I Love traveling, making new friends and learning new culture.
+- 💼 &nbsp; Working as an IT/Customer Support Specialist @Avaaz.
+- 🌱 &nbsp; Learning more on Networking and Data Analysis.
+- ✍️ &nbsp; I Love traveling, making new friends, and learning about new cultures.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
